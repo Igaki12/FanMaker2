@@ -3,7 +3,7 @@ const theme = extendTheme({
   styles:{
     global:{
       body:{
-        backgroundColor: "orange.50",
+        backgroundColor: "white",
         color:"gray.800",
       },
       p:{
